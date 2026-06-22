@@ -34,9 +34,10 @@ It lets users place dinosaurs in the real world and view basic information about
 ## Future Improvements
 
 - Better UI design  
-- Dinosaur animations  
 - Sound effects  
 - More dinosaur data  
+
+## Demo Video : https://youtube.com/shorts/cueObcLnXGs?feature=share
 
 ## Author
 
